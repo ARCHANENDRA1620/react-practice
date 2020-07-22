@@ -1,0 +1,27 @@
+.nav-style{
+    background-color: #1f2833;
+    color:#66fcf1;
+    font-family: 'Enriqueta', serif;
+}
+
+.nav-style > .nav-brand{
+    background-color: #1f2833;
+    color:#66fcf1;
+    font-family: 'Enriqueta', serif;
+}
+
+.nav-style > .mr-auto > .mr-link{
+    background-color: #1f2833;
+    color:#66fcf1;
+    font-family: 'Enriqueta', serif;
+}
+
+.nav-style > .mr-auto > .mr-link > title{
+    background-color: #1f2833;
+    color:#66fcf1;
+    font-family: 'Enriqueta', serif;
+}
+
+.NavComponent{
+    background-color:#116466
+}
