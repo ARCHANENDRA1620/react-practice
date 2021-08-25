@@ -1,0 +1,34 @@
+
+.parent-styling{
+    display: flex;
+    background-image:linear-gradient(to top, rgba(143, 222, 241, 0.589),rgba(90, 190, 236, 0.884)),  url(../components/img1.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: top;
+    clip-path: polygon(0 0,100% 0,100% 100%,0 75%);
+}
+.ui-styling{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;    
+    position: absolute;    
+    justify-content: space-evenly;
+    width: 97.1%;
+    margin: 0%;
+    padding: 1.25% 0%;
+}
+.link-styling{
+    text-decoration: none;
+}
+.img-styling{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;  
+    background-position: center;
+    background-size: cover;  
+}
+.li-styling{        
+    font-size: 35px;
+    color: whitesmoke;
+}

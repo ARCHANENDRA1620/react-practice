@@ -1,0 +1,62 @@
+.div-class{
+    height: 100vh;
+    background-image:linear-gradient(rgba(157, 173, 157, 0.795),rgba(157, 173, 157, 0.8)), url(../components/login.jpg);
+    background-size: cover;
+    background-position: top;
+    clip-path: polygon(0 0,100% 0,100% 70%,0 100%);
+}
+.login-header{
+    color: #fff;
+    text-transform: uppercase;
+}
+.login-header-main{
+    font-size: 150px;
+    font-weight: 500;
+    letter-spacing: 35px;
+    display: block;
+    position: absolute;
+    top:40%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.login-header-sub{
+    font-size:30px;
+    display: block;
+    position: absolute;
+    letter-spacing: 30px;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.login-button-style{
+    font-size:30px;
+    display: block;
+    position: absolute;
+    letter-spacing: 2px;
+    top:5%;
+    left:90%;
+    transform: translate(-50%,-50%);
+}
+
+.explore{
+    position: absolute;
+    display: inline-block;
+    padding: 1%;
+    background-color: whitesmoke;
+    color:gray;
+    border-radius: 1%;
+    width: 30%;
+    top:60%;
+    left: 48%;
+    text-align: center;
+    font-size: 30px;
+    transform: translate(-50%,-50%);
+    border-radius: 100px;
+}
+.explore:hover{
+    cursor: pointer;
+    box-shadow: 4px 8px rgba(0,0,0, 0.2);
+}
+.login-button-style:hover{
+    cursor: pointer;
+}

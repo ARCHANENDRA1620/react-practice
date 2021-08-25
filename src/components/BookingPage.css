@@ -1,0 +1,11 @@
+.location-styling{
+    text-align: center;
+    font-size: 40px;
+    margin: 1.5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.select-package-styling{
+    text-align: center;
+    font-size: 25px;    
+}

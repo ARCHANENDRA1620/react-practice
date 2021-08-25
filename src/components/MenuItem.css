@@ -1,0 +1,17 @@
+.parent-menu-styling{ 
+    display: flex;       
+    margin: 2%;  
+}
+.image-menu-styling{    
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+}
+.text-menu-styling{
+    position: absolute;
+    font-weight: bold;    
+}

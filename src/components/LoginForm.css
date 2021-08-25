@@ -1,0 +1,11 @@
+.form-class{
+    height: 75vh;
+    position: absolute;
+    top:20%;
+    left: 40%;
+}
+.login-label{
+    color: aliceblue;
+    font-size: 35px;
+    margin: 5px;
+}
